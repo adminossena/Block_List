@@ -154,7 +154,6 @@
 
 # 💬 Redes Sociales
 ||cdn.discordapp.com^
-
 ||discord.com^
 ||messenger.com^
 ||pbs.twimg.com^
@@ -198,32 +197,3 @@
 ||xbox.com^
 ||xboxlive.com^
 ||xboxservices.com^
-
-# ☁️ Almacenamiento / Nube
-
-||apkcombo.com^
-||box.com^
-||clarodrive.com^
-||idrive.com^
-||mask-api.icloud.com^
-||mask-h2.icloud.com^
-||mask.icloud.com^
-||mask.apple-dns.net^
-||mega.io^
-||pcloud.com^
-
-# 🛒 Compras / E-commerce
-
-
-# 🌐 Otros / Varios
-||camel1.live^
-||dpwdpqshxux.ru^
-||retracker.krs-ix.ru^
-||tracker.calculate.ru^
-||zonamovil.net^
-||zylom.com^
-
-
-
-
-

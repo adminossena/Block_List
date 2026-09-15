@@ -197,3 +197,7 @@
 ||xbox.com^
 ||xboxlive.com^
 ||xboxservices.com^
+
+#  Transferencia Archivos
+
+||wetransfer.com^

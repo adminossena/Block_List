@@ -206,3 +206,6 @@
 ||fromsmash.com/
 ||mega.io^
 ||transferxl.com^
+||torrentz.eu.com^
+||torrentz2.io^
+||search.torrends.to^

@@ -5,14 +5,11 @@
 @@||canva.com^
 @@||sura.com^
 @@||moodiycloud.com^
-@@||chat.deepseek.com^
 @@||claude.ai^
 @@||github.com^
-@@||canva.com^
 @@||elllo.org^
 @@||algoreducation.com^
 @@||ideogram.ai^
 @@||chatpdf.com^
 @@||claro.com.co^
 @@||naas.huaweicloud.com^
-

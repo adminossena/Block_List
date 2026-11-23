@@ -201,7 +201,8 @@
 #  Transferencia Archivos
 
 ||wetransfer.com^
-||https://thepiratebay.org/index.html^
-
-
-
+||thepiratebay.org^
+||transfernow.net^
+||fromsmash.com/
+||mega.io^
+||transferxl.com^
